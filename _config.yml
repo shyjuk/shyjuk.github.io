@@ -197,4 +197,4 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-[wordpress-url]: https://shyju.wordpress.com/
+wordpress-url: https://shyju.wordpress.com/
