@@ -20,7 +20,7 @@ timezone:
 
 title: My Blog # the main title
 
-tagline: New home for my blog. Transefering contents from "https://shyju.wordpress.com" # it will display as the sub-title
+tagline: New home for my blog. Transefering contents from [**WordPress**][wordpress-url]  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -197,3 +197,4 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+[wordpress-url]: https://shyju.wordpress.com/
