@@ -14,14 +14,14 @@ Odoo primarily recommends using Linux as the preferred operating system for inst
 Installation of IIS is not discussed in this guide. If you are unfamiliar with the process, please refer to the YouTube video provided below.
 [How to Setup or Configure IIS](https://www.youtube.com/watch?v=eeBm2H1Yuok).
 
-##Install below IIS dependencies
+## Install below IIS dependencies
 
 Please download and install following IIS dependencies from Microsoft website. 
 
 [Microsoft Application Request Routing 3.0 (x64)](https://www.microsoft.com/en-us/download/details.aspx?id=47333)
 [URL Rewrite](https://www.iis.net/downloads/microsoft/url-rewrite)
 
-##Enable Proxy
+## Enable Proxy
 
 Open IIS Management console >> application request routing
 ![image](https://github.com/shyjuk/shyjuk.github.io/assets/9428173/7094dc70-3514-4401-93b2-4d7fbdaaab73)
@@ -32,13 +32,13 @@ Open proxy settings
 Enable Proxy
 ![image](https://github.com/shyjuk/shyjuk.github.io/assets/9428173/009be112-389c-452c-8d95-e18eb8012100)
 
-##Add Reverse proxy rules
+## Add Reverse proxy rules
 
 Open URL Rewrite. This icon is present at the level or each site and web-application you have in the server, and will allow you to configure re-write rules that will apply from that level downwards.
 
 ![image](https://github.com/shyjuk/shyjuk.github.io/assets/9428173/c2846aaa-62f1-4089-9af2-9615b7a78371)
 
-##Setup a Reverse Proxy rule using the Wizard.
+## Setup a Reverse Proxy rule using the Wizard.
 
 Open the IIS Manager Console and click on the Default Web Site from the tree view on the left. Select the URL Rewrite Icon from the middle pane, and then double click it to load the URL Rewrite interface.
 
@@ -55,7 +55,7 @@ If you want to enable redirect from http to https follow the below URL and make 
 
 https://blogs.technet.microsoft.com/dawiese/2016/06/07/redirect-from-http-to-https-using-the-iis-url-rewrite-module/
 
-##Find below my web.config file.
+## Find below my web.config file.
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
