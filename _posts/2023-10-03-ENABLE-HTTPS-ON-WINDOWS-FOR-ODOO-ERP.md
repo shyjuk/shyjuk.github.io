@@ -23,14 +23,17 @@ Please download and install following IIS dependencies from Microsoft website.
 
 ## Enable Proxy
 
-Open IIS Management console >> application request routing
+* Open IIS Management console >> application request routing
 ![image](https://github.com/shyjuk/shyjuk.github.io/assets/9428173/7094dc70-3514-4401-93b2-4d7fbdaaab73)
+_Application request routing_
 
-Open proxy settings
+* Open proxy settings
 ![image](https://github.com/shyjuk/shyjuk.github.io/assets/9428173/15d67f1b-4571-44bc-815a-a2f83e6a3d53)
+  _Proxy Settings_
 
-Enable Proxy
+* Enable Proxy
 ![image](https://github.com/shyjuk/shyjuk.github.io/assets/9428173/009be112-389c-452c-8d95-e18eb8012100)
+_Enable Proxy_
 
 ## Add Reverse proxy rules
 
