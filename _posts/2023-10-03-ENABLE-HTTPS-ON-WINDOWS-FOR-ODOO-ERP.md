@@ -18,8 +18,8 @@ Installation of IIS is not discussed in this guide. If you are unfamiliar with t
 
 Please download and install following IIS dependencies from Microsoft website. 
 
-[Microsoft Application Request Routing 3.0 (x64)](https://www.microsoft.com/en-us/download/details.aspx?id=47333)
-[URL Rewrite](https://www.iis.net/downloads/microsoft/url-rewrite)
+* [Microsoft Application Request Routing 3.0 (x64)](https://www.microsoft.com/en-us/download/details.aspx?id=47333)
+* [URL Rewrite](https://www.iis.net/downloads/microsoft/url-rewrite)
 
 ## Enable Proxy
 
