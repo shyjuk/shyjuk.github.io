@@ -56,7 +56,7 @@ Please make sure odoo is accessible from the same server http://localhost:8069 o
 
 If you want to enable redirect from http to https follow the below URL and make sure to put it as the first rule. ( Use “Move up” arrow after you write the redirect rule)
 
-https://blogs.technet.microsoft.com/dawiese/2016/06/07/redirect-from-http-to-https-using-the-iis-url-rewrite-module/
+[Redirect from HTTP to HTTPS using the IIS URL Rewrite module](https://blogs.technet.microsoft.com/dawiese/2016/06/07/redirect-from-http-to-https-using-the-iis-url-rewrite-module/).
 
 ## My web.config file.
 {% raw %}
