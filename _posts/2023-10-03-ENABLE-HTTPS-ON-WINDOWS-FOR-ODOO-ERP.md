@@ -5,7 +5,7 @@ categories: [Windows Server, IIS]
 tags: [odoo,windows,iis,redirect,proxy]     # TAG names should always be lowercase
 ---
 
-# ENABLE HTTPS ON WINDOWS FOR ODOO ERP USING IIS AS A PROXY
+# Securing Your Odoo ERP: Step-by-Step Guide to Enabling HTTPS with IIS on Windows
 
 Odoo is an open-source business management software suite that includes a wide range of applications and modules for various business needs. It is designed to help organizations manage their operations more efficiently and effectively.
 
