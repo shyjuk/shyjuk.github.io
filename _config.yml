@@ -18,7 +18,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: My Blog # the main title
+title: Tech.. Logs.. # the main title
 
 tagline: New home for my blog. Transefering contents from <a href="https://shyju.wordpress.com">WordPress</a> # it will display as the sub-title
 
