@@ -55,7 +55,7 @@ If you want to enable redirect from http to https follow the below URL and make 
 
 https://blogs.technet.microsoft.com/dawiese/2016/06/07/redirect-from-http-to-https-using-the-iis-url-rewrite-module/
 
-## Find below my web.config file.
+## My web.config file.
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
