@@ -59,42 +59,44 @@ If you want to enable redirect from http to https follow the below URL and make 
 https://blogs.technet.microsoft.com/dawiese/2016/06/07/redirect-from-http-to-https-using-the-iis-url-rewrite-module/
 
 ## My web.config file.
+{% raw %}
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
-<system.webServer>
-<rewrite>
-<rules>
-<clear />
-<rule name="ERP_http_https" patternSyntax="Wildcard" stopProcessing="true">
-<match url="*" />
-<conditions logicalGrouping="MatchAny" trackAllCaptures="false">
-<add input="{HTTPS}" pattern="off" />
-</conditions>
-<action type="Redirect" url="https://{HTTP_HOST}{REQUEST_URI}" redirectType="Temporary" />
-</rule>
-<rule name="ReverseProxyInboundRulel" stopProcessing="true">
-<match url="(.*)" />
-<conditions logicalGrouping="MatchAll" trackAllCaptures="false" />
-<action type="Rewrite" url="http://127.0.0.1:8069/{R:1}" />
-</rule>
-</rules>
-<outboundRules>
-<rule name="ReverseProxyOutboundRulel" preCondition="ResponseIsHtml1">
-<match filterByTags="A, Form, Img" pattern="http(s)?://127.0.0.1:8069/(.*)" />
-<action type="Rewrite" value="http{R:1}://myserver.com/{R:2}" />
-</rule>
-<preConditions>
-<preCondition name="ResponseIsHtml1">
-<add input="{RESPONSE_CONTENT_TYPE}" pattern="^text/html" />
-</preCondition>
-</preConditions>
-</outboundRules>
-</rewrite>
-<httpRedirect enabled="false" destination="https://myserver.com" exactDestination="false" childOnly="true" />
-</system.webServer>
+	<system.webServer>
+		<rewrite>
+			<rules>
+				<clear />
+				<rule name="ERP_http_https" patternSyntax="Wildcard" stopProcessing="true">
+					<match url="*" />
+					<conditions logicalGrouping="MatchAny" trackAllCaptures="false">
+						<add input="{HTTPS}" pattern="off" />
+					</conditions>
+					<action type="Redirect" url="https://{HTTP_HOST}{REQUEST_URI}" redirectType="Temporary" />
+				</rule>
+				<rule name="ReverseProxyInboundRulel" stopProcessing="true">
+					<match url="(.*)" />
+					<conditions logicalGrouping="MatchAll" trackAllCaptures="false" />
+					<action type="Rewrite" url="http://127.0.0.1:8069/{R:1}" />
+				</rule>
+			</rules>
+			<outboundRules>
+				<rule name="ReverseProxyOutboundRulel" preCondition="ResponseIsHtml1">
+					<match filterByTags="A, Form, Img" pattern="http(s)?://127.0.0.1:8069/(.*)" />
+					<action type="Rewrite" value="http{R:1}://myserver.com/{R:2}" />
+				</rule>
+				<preConditions>
+					<preCondition name="ResponseIsHtml1">
+						<add input="{RESPONSE_CONTENT_TYPE}" pattern="^text/html" />
+					</preCondition>
+				</preConditions>
+			</outboundRules>
+		</rewrite>
+		<httpRedirect enabled="false" destination="https://myserver.com" exactDestination="false" childOnly="true" />
+	</system.webServer>
 </configuration>
 ```
+{% endraw %}
 
 ![image](https://github.com/shyjuk/shyjuk.github.io/assets/9428173/ee90e347-3114-4b9d-83dd-8a0080f72384)
 
