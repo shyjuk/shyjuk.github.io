@@ -54,7 +54,7 @@ Now we can proceed to fill in the routing information based on the diagram above
 Please make sure odoo is accessible from the same server http://localhost:8069 or change the below as per your odoo URL.
 
 
-If you want to enable redirect from http to https follow the below URL and make sure to put it as the first rule. ( Use “Move up” arrow after you write the redirect rule).
+You can find further information regarding the redirection from HTTP to HTTPS in the article below. Ensure that you prioritize this rule by placing it as the initial one. After creating the redirect rule, use the "Move up" arrow to position it correctly
 
 [Redirect from HTTP to HTTPS using the IIS URL Rewrite module](https://blogs.technet.microsoft.com/dawiese/2016/06/07/redirect-from-http-to-https-using-the-iis-url-rewrite-module/).
 
