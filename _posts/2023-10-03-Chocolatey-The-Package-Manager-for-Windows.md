@@ -1,5 +1,5 @@
 ---
-title: Chocolatey The Package Manager for Windows
+title: Install Chocolatey The Package Manager for Windows
 date: 2023-10-23
 categories: [windows, Package Installer]
 tags: [windows,chocolatey,command]     # TAG names should always be lowercase
@@ -7,6 +7,7 @@ tags: [windows,chocolatey,command]     # TAG names should always be lowercase
 
 [Chocolatey](https://chocolatey.org/) is a package manager for Windows operating systems.
 It is a free and open-source tool that simplifies the process of installing, updating, configuring, and removing software applications and packages on Windows computers.
+Follow the below steps to install Chocolatey.
 
 ## Change the execution policy of PowerShell
 
