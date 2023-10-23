@@ -2,7 +2,7 @@
 title: PostFix disable SMTP Connections From Outside
 date: 2023-10-23
 categories: [Linux, Mail Server]
-tags: [mail,smtp,postfix]     # TAG names should always be lowercase
+tags: [mail,smtp,postfix,tips]     # TAG names should always be lowercase
 ---
 
 _Use this if you don't want to allow SMTP connection from outside the server._
