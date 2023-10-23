@@ -36,5 +36,4 @@ choco install sed
 ```
 {% endraw %}
 
-
 ![image](https://github.com/shyjuk/shyjuk.github.io/assets/9428173/3937500f-6057-4e0d-9bce-82fc581907c3)
