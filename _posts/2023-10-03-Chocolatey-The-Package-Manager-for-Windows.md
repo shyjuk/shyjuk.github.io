@@ -5,7 +5,7 @@ categories: [windows, Package Installer]
 tags: [windows,chocolatey,command]     # TAG names should always be lowercase
 ---
 
-Chocolatey is a package manager for Windows operating systems.
+[Chocolatey](https://chocolatey.org/) is a package manager for Windows operating systems.
 It is a free and open-source tool that simplifies the process of installing, updating, configuring, and removing software applications and packages on Windows computers.
 
 ## Change the execution policy of PowerShell
