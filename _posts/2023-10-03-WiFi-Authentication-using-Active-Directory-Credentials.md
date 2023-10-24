@@ -1,8 +1,8 @@
 ---
 title: WiFi Authentication using Active Directory Credentials 
 date: 2023-10-10 
-categories: [Windows, NPS, WiFi, Authentication, Active Directory]
-tags: [windows, active directory]     # TAG names should always be lowercase
+categories: [windows, WiFi]
+tags: [windows, nps, wifi,active directory]     # TAG names should always be lowercase
 ---
 
 In this article, we will walk you through the process of setting up your WiFi device to exclusively accept connections from a predefined list of active directory users or computers. To achieve this, we will utilize the Windows Network Policy Server (NPS) as the RADIUS server for configuring WiFi authentication. NPS empowers you to establish and enforce network access policies across your organization, ensuring authentication and authorization for connection requests. It's worth noting that the NPS server is integrated within the active directory domain.
