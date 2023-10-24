@@ -1,7 +1,7 @@
 ---
 title: ENABLE HTTPS ON WINDOWS FOR ODOO ERP 
 date: 2023-10-03 
-categories: [Windows Server, IIS]
+categories: [Windows, IIS]
 tags: [odoo,windows,iis,redirect,proxy]     # TAG names should always be lowercase
 ---
 
