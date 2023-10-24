@@ -1,7 +1,7 @@
 ---
 title: Secure Your ADFS Server - Installing an SSL Certificate
 date: 2023-10-10
-categories: [Certificate, ADFS]
+categories: [Windows, ADFS]
 tags: [windows, adfs, ssl certificate]     # TAG names should always be lowercase
 ---
 
