@@ -1,7 +1,7 @@
 ---
 title: WiFi Authentication using Active Directory Credentials 
 date: 2023-10-10 
-categories: [windows, WiFi]
+categories: [Windows, WiFi]
 tags: [windows, nps, wifi,active directory]     # TAG names should always be lowercase
 ---
 
