@@ -12,6 +12,8 @@ You can find sed command in most of the linux systems. But if you are on windows
 {% raw %}
 ```
 sed -i -- 's/firstword/secondword/g' *.txt
-It searches for  the text "firstword" in all the .txt files in the current direcory and replaces it with "secondword".
+
 ```
 {% endraw %}
+
+It searches for  the text "firstword" in all the .txt files in the current direcory and replaces it with "secondword".
