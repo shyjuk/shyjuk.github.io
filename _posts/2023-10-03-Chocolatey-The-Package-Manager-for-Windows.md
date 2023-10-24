@@ -1,7 +1,7 @@
 ---
 title: Install Chocolatey The Package Manager for Windows
 date: 2023-10-23
-categories: [windows, Package Installer]
+categories: [Windows, Package Installer]
 tags: [windows,chocolatey,command]     # TAG names should always be lowercase
 ---
 
