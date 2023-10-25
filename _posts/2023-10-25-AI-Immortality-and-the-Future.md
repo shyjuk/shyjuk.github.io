@@ -8,21 +8,19 @@ tags: [prediction, ai, immortality, google, nuralink]     # TAG names should alw
 ![super-human-with-sensor-implants-in-his-body](https://github.com/shyjuk/shyjuk.github.io/assets/9428173/00a6ab48-a65c-4ead-b3f3-1c2541f025b0)
 
 Ray Kerswell's visionary predictions have consistently piqued my interest, as his earlier prognostications have demonstrated remarkable accuracy.
-In light of his track record, it would be unwise to dismiss his latest forecast. According to Kerswell, by the year 2029, we will bear witness to a world where computers not only exhibit emotions but also successfully pass the Turing test, blurring the line between man and machine. Additionally, another Google engineer has made an equally striking prediction regarding the emergence of "LaMDA AI," an AI entity endowed with human-like sentience.
-This remarkable creation is conceived within the crucible of Google, the planet's preeminent search engine. 
+In light of his track record, it would be unwise to dismiss his latest forecast. According to Kerswell, by the year 2029, we will bear witness to a world where computers not only exhibit emotions but also successfully [pass the Turing test](https://www.youtube.com/watch?v=3pdaT8XT1ZM), blurring the line between man and machine. Additionally, another Google engineer has made an equally striking prediction regarding the emergence of "LaMDA AI," an AI entity endowed with [human-like sentience](https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/). This remarkable creation is conceived within the crucible of Google, the planet's preeminent search engine. 
 
-However, it was Ray Kurzweil's bold proclamation that "immortality is attainable by 2030" that truly captivated my imagination.
+However, it was Ray Kurzweil's bold proclamation that ["immortality is attainable by 2030"](https://nypost.com/2023/03/29/immortality-is-attainable-by-2030-google-scientist/) that truly captivated my imagination.
 The prospect of achieving such an extraordinary milestone left me pondering the current advancements in the field of medicine.
 
-Google AI is working on advanced algorithms to enhance the precision of cardiovascular MRI scans. This breakthrough could enable doctors to identify cardiovascular diseases with greater accuracy and at earlier stages.
-Additionally, Google AI is developing algorithms that can predict a patient's likelihood of developing heart failure.
+[Google AI](https://www.youtube.com/watch?v=0pl1pk2nq88) is working on advanced algorithms to enhance the precision of cardiovascular MRI scans. This breakthrough could enable doctors to identify cardiovascular diseases with greater accuracy and at earlier stages. Additionally, Google AI is developing algorithms that can predict a patient's likelihood of developing heart failure.
 This predictive information could be leveraged to create tailored prevention strategies, which might include lifestyle adjustments or specific medications.
 Collaborating with healthcare providers, Google AI is also crafting AI-powered tools designed to assist in making treatment decisions for patients dealing with cardiovascular diseases. 
 These tools have the potential to aid doctors in selecting the most suitable treatment options for each patient, considering their unique requirements and risk factors.
 
-Furthermore, the trailblazing journey into sensor technology has been initiated by Google, introducing the concept of mobile sensors, such as temperature sensors on smartphones.
+Furthermore, the trailblazing journey into sensor technology has been initiated by Google, introducing the concept of mobile sensors, such as [temperature sensors](https://www.theverge.com/23903842/pixel-8-pro-temperature-sensor-fda-feature) on smartphones.
 Notably, Apple has already incorporated heart rate sensors in their devices. 
-Furthermore, Neuralink, a pioneering venture, aims to establish a direct connection between the human mind and computers. 
+Furthermore, [Neuralink](https://www.reuters.com/technology/musks-neuralink-start-human-trials-brain-implant-2023-09-19/), a pioneering venture, aims to establish a direct connection between the human mind and computers. 
 The advent of Neuralink, the cerebral bridge uniting the human psyche and computer technology, is poised to revolutionize human-machine interaction.
 This bridge between technology and our bodies holds immense potential for deciphering our physical condition and providing timely nutritional support. 
 ![super-human-with-sensor-implants-in-his-body-sen](https://github.com/shyjuk/shyjuk.github.io/assets/9428173/8bbe7e41-7fb1-4ac7-bcd4-c343cdd32cbe)
@@ -42,3 +40,4 @@ Thus, the era of the cell phone draws to a close, ushering in a future where we 
 
 In sum, the convergence of artificial intelligence, sensor technology, and human-machine integration could usher in a transformative era, fundamentally reshaping our understanding of human potential and longevity.
 Ray Kurzweil's predictions, alongside the remarkable developments in technology, evoke a future where the lines between humanity and machines blur, leading us towards uncharted horizons.
+
