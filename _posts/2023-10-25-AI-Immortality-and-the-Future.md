@@ -7,7 +7,7 @@ tags: [prediction, ai, immortality, google, nuralink]     # TAG names should alw
 
 <!-- ![super-human-with-sensor-implants-in-his-body](https://github.com/shyjuk/shyjuk.github.io/assets/9428173/00a6ab48-a65c-4ead-b3f3-1c2541f025b0) -->
 
-Ray Kerswell's visionary predictions have consistently piqued my interest, as his earlier prognostications have demonstrated remarkable accuracy.
+  Ray Kerswell's visionary predictions have consistently piqued my interest, as his earlier prognostications have demonstrated remarkable accuracy.
 In light of his track record, it would be unwise to dismiss his latest forecast. According to Kerswell, by the year 2029, we will bear witness to a world where computers not only exhibit emotions but also successfully [pass the Turing test](https://www.youtube.com/watch?v=3pdaT8XT1ZM), blurring the line between man and machine. Additionally, another Google engineer has made an equally striking prediction regarding the emergence of "LaMDA AI," an AI entity endowed with [human-like sentience](https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/). This remarkable creation is conceived within the crucible of Google, the planet's preeminent search engine. 
 
 However, it was Ray Kurzweil's bold proclamation that ["immortality is attainable by 2030"](https://nypost.com/2023/03/29/immortality-is-attainable-by-2030-google-scientist/) that truly captivated my imagination.
