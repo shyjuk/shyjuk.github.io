@@ -23,7 +23,9 @@ Notably, Apple has already incorporated heart rate sensors in their devices.
 Furthermore, [Neuralink](https://www.reuters.com/technology/musks-neuralink-start-human-trials-brain-implant-2023-09-19/), a pioneering venture, aims to establish a direct connection between the human mind and computers. 
 The advent of Neuralink, the cerebral bridge uniting the human psyche and computer technology, is poised to revolutionize human-machine interaction.
 This bridge between technology and our bodies holds immense potential for deciphering our physical condition and providing timely nutritional support. 
-![super-human-with-sensor-implants-in-his-body-sen](https://github.com/shyjuk/shyjuk.github.io/assets/9428173/8bbe7e41-7fb1-4ac7-bcd4-c343cdd32cbe)
+
+<img height='50%' width='50%' alt='super-human-with-sensor-implants-in-his-body-sen' src='https://github.com/shyjuk/shyjuk.github.io/assets/9428173/8bbe7e41-7fb1-4ac7-bcd4-c343cdd32cbe' />
+
 The integration of such sensor technology is not limited to mobile phones alone; we can foresee a future where implantable sensors transmit data directly to a smartphone application.
 However, the implementation of sensor implants may face resistance from the medical industry, as it has the potential to significantly reduce the demand for traditional medical equipment and services.
 
